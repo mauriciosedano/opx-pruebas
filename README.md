@@ -84,7 +84,7 @@
 7. Realizar mapeo
 8. Verificar producción (applicación Web)
 
-**Gestioón de CAMBIOS**: (aplicación Web)
+**Gestión de CAMBIOS**: (aplicación Web)
 1. Seleccionar proyecto
 2. Seleccionar *dimension territorial*
 3. Re-dibujar *dimension territorial* (a nivel de proyecto)
