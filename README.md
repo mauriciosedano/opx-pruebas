@@ -36,24 +36,42 @@
 - Instancia Web Humanitarian Data Exchange (CKAN): gestión de conjuntos de datos
 
 
-**Configuración de PROYECTOS** (procedimiento):
+**Configurar PROYECTO:
+
 *Paso 1: Preparación*
-1. Crear CONTEXTOS: cargar conjuntos de datos (formato csv especifico HDX para visualización de datos)
-2. Crear INSTRUMENTOS: cargar formularios de recolección (formato xlsx espeficio XLSFORM para cración de formularios)
-3. Registrar USUARIOS: definir *email*, *clave*, y *rol*
-4. Crear EQUIPOS: vincular usuarios registrados
-5. Crear DECISIONES: identificar la ACCION a tomar (fase 5 PGD) con los resultados conmunicados (fase 4 PGD) a consecuencia de la eejcución del proyecto de medición
+1. Crear CONTEXTOS
+- Cargar conjuntos de datos en formato CSV para HDX/CKAN (visualización de datos)
+2. Crear INSTRUMENTOS
+- Definir TIPO
+- Definir DIMENSION TERRITORIAL (caso Encuesta)
+- Cargar formularios de recolección en formato XLSX para KOBOTOLBOX/XLSFORM (caso Encuesta - creación de formularios)
+3. Registrar USUARIOS
+- Cargar *email* y *clave* (aplicación móvil/web - creación de usuarios)
+- Asignar *rol* (aplicación web - gestión de usuarios)
+4. Crear EQUIPOS
+- Crear "categoria" para asignar *nombre de equipo* 
+- Vincular usuarios registrados
+5. Crear DECISIONES
+- Crear "descripción" para *identificar la ACCION a tomar (PGD/fase 5) con los resultados conmunicados (PGD/fase 4)* a consecuencia de la ejcución del proyecto de medición
 
-*Paso 2: Configuración**
+*Paso 2: Configuración*
 6. Crear PROYECTO
-- Nombre: Censar población
-- Descripción: Establecer la cantidad de personas que realizan actividades deportivas/recreativas en un territorio determinado
-- Decisiones
-- Contextos
+- Nombre: P7 - Censar población
+- Descripción: Registrar la cantidad de personas que realizan actividades deportivas/recreativas en un territorio determinado
+- Decisiones: D1 - Identificar zonas prioritarias, D2 - Dimensionar capacidad/recursos
+- Contextos: C1 - Puntos registrados, C2 - Zonas registradas
 - Tipo: Medición
-- Equipos:
-- Dimensiones:
+- Equipos: E1 - Salida Z1 3 Personas, E2 - Salida Z2 4 Personas, E3 - Cruce Z3 3 Personas, E4 - Llegada Z4 4 Persona, E5 - Intermedio Z6, E5 - Intermedio Z5, E5 - Intermedio Z/, E5 - Intermedio Z8
+*Paso 2.1: Definir DIMENSION TERRITORIAL*:
+- Dimensión: Zona Urbana - Cali
 
-
-6.1 Crear DIMENSION TERRITORIAL
-
+*Paso 3: Creación*
+7. Crear TAREA
+- Nombre: T1 (P2) - Contar población
+- Tipo: Encuesta
+- Cantidad: 4 registros
+- Proyecto: P2 - Contar poblacion (actualizado)
+- Instrumento: Zona X - Parcial Cali Urbana (actualizado)
+- Descripción: Registrar  el número de el numero de mujeres, hombres, mascotas, bicicletas, motos y vehículos en tu Zona
+*Paso 2.1: Definir DIMENSION TERRITORIAL*:
+- Dimensión: *Sin registrar NOMBRE**
