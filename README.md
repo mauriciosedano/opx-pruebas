@@ -13,7 +13,7 @@
 - Usar **MAYUSCULAS** para mapear MODULOS y CLASES
 - Transitar de un diseño basado en MODULOS a un diseño técnico basado en CLASES
 - Asignar ROL a los USUARIOS registrados
-- Dibujar DIMENSION territorial a cada TAREA tipo ENCUESTA, PROYECTOS e INSTRUMENTOS
+- Dibujar DIMENSION territorial a cada TAREA tipo ENCUESTA, PROYECTO e INSTRUMENTO
 
 **Limitaciones**:
 
