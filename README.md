@@ -35,26 +35,39 @@
 - Instancia Web Jupyter Hub: getión de procedimientos
 - Instancia Web Humanitarian Data Exchange (CKAN): gestión de conjuntos de datos
 
-**Procedimiento para la configuración de PROYECTOS**:
-- Preparar contextos
-- Crear contextos
--- Asignar nombre
--- Seleccionar contexto y crear datos de contexto
--- Cargar CSV y guardar
-- Preparar instrumentos
-- Crear instrumentos
--- Asignar tipo, nombre y descripción
---  Crear formulario, cargar y guardar
---  Seleccionar instrumento e implementar
-- Registrar usuarios
--- Seleccionar usuario y asignar rol
-- Crear equipos
--- Seleccionar equipo y vincular usuarios
-- Crear decisiones
-- Crear proyecto
--- Asignar nombre, descripción y cantidad
--- Seleccionar decisiones, contextos y equipos
--- Dibujar dimension territorial, asignar nombre y agregar
-- Crear tareas
--- Asignar nombre, tipo, cantidad, proyecto, instrmento y descripción
--- Dibujar dimension territorial
+**Configuración de PROYECTOS**:
+CONTEXTOS
+1. Preparar contextos
+2. Crear contextos
+3. Asignar nombre
+4. Seleccionar contexto y crear datos de contexto
+5. Cargar CSV y guardar
+
+INSTRUMENTOS
+1. Preparar instrumentos
+2. Crear instrumentos
+3. Asignar tipo, nombre y descripción
+4.  Crear formulario, cargar y guardar
+5.  Seleccionar instrumento e implementar
+
+USUARIOS
+1. Registrar usuarios
+2. Seleccionar usuario y asignar rol
+
+EQUIPOS
+1. Crear equipos
+2. Seleccionar equipo y vincular usuarios
+
+DECISIONES
+1. Crear decisiones
+
+PROYECTOS
+1. Crear proyecto
+2. Asignar nombre, descripción y cantidad
+3. Seleccionar decisiones, contextos y equipos
+4. Dibujar dimension territorial, asignar nombre y agregar
+
+TAREAS
+1. Crear tareas
+2. Asignar nombre, tipo, cantidad, proyecto, instrmento y descripción
+3. Dibujar dimension territorial
