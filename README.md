@@ -10,26 +10,25 @@
 
 **Principios**:
 
-- Transición de un diseño funcional incial basado en MODULOS a un diseño técnico basado en CLASES
-- Uso de *mayusculas* para hacer referencia a **MODULOS** y **CLASES** para mapear procesos en la Documentación
-- USUARIOS registrados: por defecto con rol *Voluntario*
-- DIMENSION territorial: por defecto las TAREAS tipo *Encuesta* dependen de los PROYECTOS y las TAREAS tipo *Mapeo* dependen de los INSTRUMENTOS
-- REPORTES: por defecto son visibles para el USUARIO tipo *Super Administrador*
-
+- Transitar de un diseño basado en **Modulos** a un diseño basado en **Clases**
+- Usar **MAYUSCULAS** para mapear **Modulos** y **Clases**
+- Asignar ROL a los USUARIOS registrados
+- Dibujar DIMENSION territorial a las TAREAS tipo *Encuesta*, los PROYECTOS y los INSTRUMENTOS
 
 **Limitaciones**:
 
-- Producto final entregado con alcance parcial
-- Plan de pruebas inicial diseñado para un territorio determinado
-- Plan de pruebas ajustado para a la situación de confinamiento actual (territorio generalizado)
-- Universo de pruebas ejecutado con rol de usario tipo *Proyectista*
-- Equipos creados con usuarios tipo *Voluntario* y *Validador*
+- Producto final con alcance parcial
+- Plan de pruebas para un territorio determinado
+- Plan de pruebas ajustado para a la situación de confinamiento (territorio generalizado)
+- Universo de pruebas ejecutado como PROYECTISTA (ROL de usuario)
+- EQUIPOS creados con VOLUNTARIOS y VALIDADORES (ROL de usuario)
+- REPORTES visibles para SUPER ADMINISTRADO (ROL de usuario)
 
 
 **Contenido**:
 
-- Aplicación Web
-- Aplicación Móvil Android
+- Aplicación Web: XLS, CSV (conjuntos de datos + formularios) + incidencias
+- Aplicación Móvil Android: APK (instalador) + incidencias
 - Instancia Web Kobotoolbox: gestión de recolección de datos
 - Instancia Web Tasking Manager: gestión de tareas
 - Instancia Web Jupyter Hub: getión de procedimientos
@@ -48,8 +47,8 @@ INSTRUMENTOS (preparación)
 1. Preparar instrumentos
 2. Crear instrumentos
 3. Asignar tipo, nombre y descripción
-4.  Crear formulario, cargar y guardar
-5.  Seleccionar instrumento e implementar
+4. Crear formulario, cargar y guardar
+5. Seleccionar instrumento e implementar
 
 USUARIOS (preparación)
 1. Registrar usuarios
@@ -72,3 +71,11 @@ TAREAS (configuración)
 1. Crear tareas
 2. Asignar nombre, tipo, cantidad, proyecto, instrmento y descripción
 3. Dibujar dimension territorial
+
+**Ejecución de PROYECTOS**:
+
+1. Inicio de sesión
+2. Listar proyectos
+3. Seleccionar proyectos, tareas
+4. Realizar encuesta
+5. Realizar mapeo
