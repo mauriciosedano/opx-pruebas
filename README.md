@@ -55,6 +55,7 @@
 - Crear "descripción" para *identificar la ACCION a tomar (PGD/fase 5) con los resultados conmunicados (PGD/fase 4)* a consecuencia de la ejcución del proyecto de medición
 
 *Paso 2: Configuración*
+
 6. Crear PROYECTO
 - Nombre: P7 - Censar población
 - Descripción: Registrar la cantidad de personas que realizan actividades deportivas/recreativas en un territorio determinado
@@ -67,6 +68,7 @@
 - Dimensión: Zona Urbana - Cali
 
 *Paso 3: Creación*
+
 7. Crear TAREA
 - Nombre: T1 (P2) - Contar población
 - Tipo: Encuesta
