@@ -36,7 +36,7 @@
 - Instancia Web Humanitarian Data Exchange (CKAN): gestión de conjuntos de datos
 
 
-**Configurar PROYECTO:
+**Configurar PROYECTO**:
 
 *Paso 1: Preparación*
 1. Crear CONTEXTOS
@@ -62,6 +62,7 @@
 - Contextos: C1 - Puntos registrados, C2 - Zonas registradas
 - Tipo: Medición
 - Equipos: E1 - Salida Z1 3 Personas, E2 - Salida Z2 4 Personas, E3 - Cruce Z3 3 Personas, E4 - Llegada Z4 4 Persona, E5 - Intermedio Z6, E5 - Intermedio Z5, E5 - Intermedio Z/, E5 - Intermedio Z8
+
 *Paso 2.1: Definir DIMENSION TERRITORIAL*:
 - Dimensión: Zona Urbana - Cali
 
@@ -73,5 +74,6 @@
 - Proyecto: P2 - Contar poblacion (actualizado)
 - Instrumento: Zona X - Parcial Cali Urbana (actualizado)
 - Descripción: Registrar  el número de el numero de mujeres, hombres, mascotas, bicicletas, motos y vehículos en tu Zona
-*Paso 2.1: Definir DIMENSION TERRITORIAL*:
+
+*Paso 3.1: Definir DIMENSION TERRITORIAL*:
 - Dimensión: *Sin registrar NOMBRE**
