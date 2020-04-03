@@ -36,38 +36,39 @@
 - Instancia Web Humanitarian Data Exchange (CKAN): gestión de conjuntos de datos
 
 **Configuración de PROYECTOS**:
-CONTEXTOS
+
+CONTEXTOS (preparación)
 1. Preparar contextos
 2. Crear contextos
 3. Asignar nombre
 4. Seleccionar contexto y crear datos de contexto
 5. Cargar CSV y guardar
 
-INSTRUMENTOS
+INSTRUMENTOS (preparación)
 1. Preparar instrumentos
 2. Crear instrumentos
 3. Asignar tipo, nombre y descripción
 4.  Crear formulario, cargar y guardar
 5.  Seleccionar instrumento e implementar
 
-USUARIOS
+USUARIOS (preparación)
 1. Registrar usuarios
 2. Seleccionar usuario y asignar rol
 
-EQUIPOS
+EQUIPOS (preparación)
 1. Crear equipos
 2. Seleccionar equipo y vincular usuarios
 
-DECISIONES
+DECISIONES (preparación)
 1. Crear decisiones
 
-PROYECTOS
+PROYECTOS (configuración)
 1. Crear proyecto
 2. Asignar nombre, descripción y cantidad
 3. Seleccionar decisiones, contextos y equipos
 4. Dibujar dimension territorial, asignar nombre y agregar
 
-TAREAS
+TAREAS (configuración)
 1. Crear tareas
 2. Asignar nombre, tipo, cantidad, proyecto, instrmento y descripción
 3. Dibujar dimension territorial
