@@ -35,47 +35,26 @@
 - Instancia Web Jupyter Hub: getión de procedimientos
 - Instancia Web Humanitarian Data Exchange (CKAN): gestión de conjuntos de datos
 
-
-**Configurar PROYECTO**:
-
-*Paso 1: Preparación*
-1. Crear CONTEXTOS
-- Cargar conjuntos de datos en formato CSV para HDX/CKAN (visualización de datos)
-2. Crear INSTRUMENTOS
-- Definir TIPO
-- Definir DIMENSION TERRITORIAL (caso Encuesta)
-- Cargar formularios de recolección en formato XLSX para KOBOTOLBOX/XLSFORM (caso Encuesta - creación de formularios)
-3. Registrar USUARIOS
-- Cargar *email* y *clave* (aplicación móvil/web - creación de usuarios)
-- Asignar *rol* (aplicación web - gestión de usuarios)
-4. Crear EQUIPOS
-- Crear "categoria" para asignar *nombre de equipo* 
-- Vincular usuarios registrados
-5. Crear DECISIONES
-- Crear "descripción" para *identificar la ACCION a tomar (PGD/fase 5) con los resultados conmunicados (PGD/fase 4)* a consecuencia de la ejcución del proyecto de medición
-
-*Paso 2: Configuración*
-
-6. Crear PROYECTO
-- Nombre: P7 - Censar población
-- Descripción: Registrar la cantidad de personas que realizan actividades deportivas/recreativas en un territorio determinado
-- Decisiones: D1 - Identificar zonas prioritarias, D2 - Dimensionar capacidad/recursos
-- Contextos: C1 - Puntos registrados, C2 - Zonas registradas
-- Tipo: Medición
-- Equipos: E1 - Salida Z1 3 Personas, E2 - Salida Z2 4 Personas, E3 - Cruce Z3 3 Personas, E4 - Llegada Z4 4 Persona, E5 - Intermedio Z6, E5 - Intermedio Z5, E5 - Intermedio Z7, E5 - Intermedio Z8
-
-*Paso 2.1: Definir DIMENSION TERRITORIAL*:
-- Dimensión: Zona Urbana - Cali
-
-*Paso 3: Creación*
-
-7. Crear TAREA
-- Nombre: T1 (P2) - Contar población
-- Tipo: Encuesta
-- Cantidad: 4 
-- Proyecto: P2 - Contar poblacion (actualizado)
-- Instrumento: Zona X - Parcial Cali Urbana (actualizado)
-- Descripción: Registrar  el número de el numero de mujeres, hombres, mascotas, bicicletas, motos y vehículos en tu Zona
-
-*Paso 3.1: Definir DIMENSION TERRITORIAL*:
-- Dimensión: *Sin registrar NOMBRE*
+**Procedimiento para la configuración de PROYECTOS**:
+- Preparar contextos
+- Crear contextos
+-- Asignar nombre
+-- Seleccionar contexto y crear datos de contexto
+-- Cargar CSV y guardar
+- Preparar instrumentos
+- Crear instrumentos
+-- Asignar tipo, nombre y descripción
+--  Crear formulario, cargar y guardar
+--  Seleccionar instrumento e implementar
+- Registrar usuarios
+-- Seleccionar usuario y asignar rol
+- Crear equipos
+-- Seleccionar equipo y vincular usuarios
+- Crear decisiones
+- Crear proyecto
+-- Asignar nombre, descripción y cantidad
+-- Seleccionar decisiones, contextos y equipos
+-- Dibujar dimension territorial, asignar nombre y agregar
+- Crear tareas
+-- Asignar nombre, tipo, cantidad, proyecto, instrmento y descripción
+-- Dibujar dimension territorial
