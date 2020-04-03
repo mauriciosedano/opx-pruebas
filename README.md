@@ -83,3 +83,11 @@
 6. Realizar encuesta
 7. Realizar mapeo
 8. Verificar producción (applicación Web)
+
+**Gestioón de CAMBIOS**: (aplicación Web)
+1. Seleccionar proyecto
+2. Seleccionar *dimension territorial*
+3. Re-dibujar *dimension territorial* (a nivel de proyecto)
+4. Re-editar tareas afectadas
+5. Re-dibujar *dimension territorial* (a nivel de tarea)
+6. Aceptar
