@@ -10,17 +10,17 @@
 
 **Principios**:
 
-- Transitar de un diseño basado en **Modulos** a un diseño basado en **Clases**
-- Usar **MAYUSCULAS** para mapear **Modulos** y **Clases**
+- Usar **MAYUSCULAS** para mapear MODULOS y CLASES
+- Transitar de un diseño basado en MODULOS a un diseño técnico basado en CLASES
 - Asignar ROL a los USUARIOS registrados
-- Dibujar DIMENSION territorial a las TAREAS tipo *Encuesta*, los PROYECTOS y los INSTRUMENTOS
+- Dibujar DIMENSION territorial a cada TAREA tipo ENCUESTA, PROYECTOS e INSTRUMENTOS
 
 **Limitaciones**:
 
-- Producto final con alcance parcial
+- Producto final con alcance parcial [fecha de entrega 27/MAR/2020]
 - Plan de pruebas para un territorio determinado
 - Plan de pruebas ajustado para a la situación de confinamiento (territorio generalizado)
-- Universo de pruebas ejecutado como PROYECTISTA (ROL de usuario)
+- Universo de pruebas ejecutado como PROYECTISTA (ROL de usuario)[fecha de pruebas 01-02/ABR/2020]
 - EQUIPOS creados con VOLUNTARIOS y VALIDADORES (ROL de usuario)
 - REPORTES visibles para SUPER ADMINISTRADO (ROL de usuario)
 
@@ -34,7 +34,7 @@
 - Instancia Web Jupyter Hub: getión de procedimientos
 - Instancia Web Humanitarian Data Exchange (CKAN): gestión de conjuntos de datos
 
-**Configuración de PROYECTOS**:
+**Configuración de PROYECTOS**: (applicación Web)
 
 CONTEXTOS (preparación)
 1. Preparar contextos
@@ -72,7 +72,7 @@ TAREAS (configuración)
 2. Asignar nombre, tipo, cantidad, proyecto, instrmento y descripción
 3. Dibujar dimension territorial
 
-**Ejecución de PROYECTOS**:
+**Ejecución de PROYECTOS**: (aplicación Móvil)
 
 1. Inicio de sesión
 2. Listar proyectos
