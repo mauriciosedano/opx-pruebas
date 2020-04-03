@@ -62,7 +62,7 @@
 - Decisiones: D1 - Identificar zonas prioritarias, D2 - Dimensionar capacidad/recursos
 - Contextos: C1 - Puntos registrados, C2 - Zonas registradas
 - Tipo: Medición
-- Equipos: E1 - Salida Z1 3 Personas, E2 - Salida Z2 4 Personas, E3 - Cruce Z3 3 Personas, E4 - Llegada Z4 4 Persona, E5 - Intermedio Z6, E5 - Intermedio Z5, E5 - Intermedio Z/, E5 - Intermedio Z8
+- Equipos: E1 - Salida Z1 3 Personas, E2 - Salida Z2 4 Personas, E3 - Cruce Z3 3 Personas, E4 - Llegada Z4 4 Persona, E5 - Intermedio Z6, E5 - Intermedio Z5, E5 - Intermedio Z7, E5 - Intermedio Z8
 
 *Paso 2.1: Definir DIMENSION TERRITORIAL*:
 - Dimensión: Zona Urbana - Cali
@@ -72,10 +72,10 @@
 7. Crear TAREA
 - Nombre: T1 (P2) - Contar población
 - Tipo: Encuesta
-- Cantidad: 4 registros
+- Cantidad: 4 
 - Proyecto: P2 - Contar poblacion (actualizado)
 - Instrumento: Zona X - Parcial Cali Urbana (actualizado)
 - Descripción: Registrar  el número de el numero de mujeres, hombres, mascotas, bicicletas, motos y vehículos en tu Zona
 
 *Paso 3.1: Definir DIMENSION TERRITORIAL*:
-- Dimensión: *Sin registrar NOMBRE**
+- Dimensión: *Sin registrar NOMBRE*
