@@ -40,14 +40,13 @@ El alcance actual del escenario de desarrollo requiere que antes de usar la app 
 3. Mantener activado *Hosts change switch*
 4. Mantener activado *DNS change switch*
 5. Configurar 
-- Seleccionar *Hosts editor*
+- Seleccionar *Hosts editor* (ver imagen al final)
 - Agregar tres registros asi:
 167.99.11.18 ee.oim-opc.pre
 167.99.11.18 kc.oim-opc.pre
 167.99.11.18 kf.oim-opc.pre
 6. Retroceder
-7. Iniciar
-4. Iniciar
+7. Iniciar (ver imagen al final)
 
 **Manual de usuario**: https://github.com/mauriciosedano/opx-opensource-doc/blob/master/manual_USUARIO-OPx-02DIC2019.pdf
 
@@ -56,4 +55,6 @@ El alcance actual del escenario de desarrollo requiere que antes de usar la app 
 
 **Hosts Go**:
 
-![Imagen Host Go Inicio](https://github.com/mauriciosedano/opx-pruebas/blob/master/app-movil/Screenshot_20200405-161844.png)
+![Imagen Hosts editor](https://github.com/mauriciosedano/opx-pruebas/blob/master/app-movil/Screenshot_20200405-161832.png)
+
+![Imagen Hosts Start](https://github.com/mauriciosedano/opx-pruebas/blob/master/app-movil/Screenshot_20200405-161844.png)
