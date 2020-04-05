@@ -13,15 +13,21 @@ Introducción:
 
 **Instrucciones**
 Para colaborar con el plan de pruebas es necesario:
-- Desacargar la app.
-- Instalar la app.
-- Abrir la app.
+- Desacargar OPx: https://github.com/mauriciosedano/opx-pruebas/blob/master/app-movil/bin/2020-ABR-04/app-desarrollo.apk
+- Instalar OPx.
+- Abrir OPx.
 - Registrar un usuario. 
 - Iniciar sesión. 
 - Listar proyectos. 
+
+**Ejecutar prueba**:
 - Buscar el proyecto *P7 - Censar poblacion* 
 - Listar sus tareas
-- Completar las tareas tipo *Encuesta* (T1 - Contar población y T4 - Valorar experiencia).
+- Completar las tareas tipo *Encuesta*: T1 - Contar población y T4 - Valorar experiencia.
+- Completar las tareas tipo *Mapeo*: T2 - Registrar puntos y T3 - Reportar ascensos.
+
+**Resultado esperado**:
+En la medida en la que competas las tareas, podrás observar cambios y te surgiran preguntas. 
 - Observar cambios en: progreso, ranking, lista de tareas pendientes y lista de tareas completadas.
 - Registrar toda inconsistencia observada y remitirla a *mauriciosedano@gmail.com*
 
