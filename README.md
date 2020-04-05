@@ -64,7 +64,7 @@
 
 6. PROYECTOS (configuración)
 - Crear proyecto
-- Asignar nombre, descripción y cantidad
+- Asignar nombre, descripción y tipo
 - Seleccionar decisiones, contextos y equipos
 - Dibujar *dimension territorial*, asignar nombre y agregar
 
