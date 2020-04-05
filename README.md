@@ -36,46 +36,58 @@
 
 **Configuración de PROYECTOS**: (applicación Web)
 
-CONTEXTOS (preparación)
-1. Preparar contextos
-2. Crear contextos
-3. Asignar nombre
-4. Seleccionar contexto y crear datos de contexto
-5. Cargar CSV y guardar
+1. CONTEXTOS (preparación)
+- Preparar contextos
+- Crear contextos
+- Asignar nombre
+- Seleccionar contexto y crear datos de contexto
+- Cargar CSV y guardar
 
-INSTRUMENTOS (preparación)
-1. Preparar instrumentos
-2. Crear instrumentos
-3. Asignar tipo, nombre y descripción
-4. Crear formulario, cargar y guardar
-5. Seleccionar instrumento e implementar
+2. INSTRUMENTOS (preparación)
+- Preparar instrumentos
+- Crear instrumentos
+- Asignar tipo, nombre y descripción
+- Crear formulario, cargar y guardar
+- Dibujar *dimension territorial*
+- Seleccionar instrumento e implementar
 
-USUARIOS (preparación)
-1. Registrar usuarios
-2. Seleccionar usuario y asignar rol
+3. USUARIOS (preparación)
+- Registrar usuarios (aplicación Móvil)
+- Seleccionar usuario y asignar rol (aplicación Web)
 
-EQUIPOS (preparación)
-1. Crear equipos
-2. Seleccionar equipo y vincular usuarios
+4. EQUIPOS (preparación)
+- Crear equipos
+- Seleccionar equipo y vincular usuarios
 
-DECISIONES (preparación)
-1. Crear decisiones
+5. DECISIONES (preparación)
+- Crear decisiones
 
-PROYECTOS (configuración)
-1. Crear proyecto
-2. Asignar nombre, descripción y cantidad
-3. Seleccionar decisiones, contextos y equipos
-4. Dibujar dimension territorial, asignar nombre y agregar
+6. PROYECTOS (configuración)
+- Crear proyecto
+- Asignar nombre, descripción y cantidad
+- Seleccionar decisiones, contextos y equipos
+- Dibujar *dimension territorial*, asignar nombre y agregar
 
-TAREAS (configuración)
-1. Crear tareas
-2. Asignar nombre, tipo, cantidad, proyecto, instrmento y descripción
-3. Dibujar dimension territorial
+7. TAREAS (configuración)
+- Crear tareas
+- Asignar nombre, tipo, cantidad, proyecto, instrmento y descripción
+- Dibujar *dimension territorial*
 
 **Ejecución de PROYECTOS**: (aplicación Móvil)
 
-1. Inicio de sesión
-2. Listar proyectos
-3. Seleccionar proyectos, tareas
-4. Realizar encuesta
-5. Realizar mapeo
+1. Iniciar de sesión (usuario registrado)
+2. Habilitar GPS 
+3. Navegar contextualizado
+4. Listar proyectos
+5. Seleccionar proyectos, tareas
+6. Realizar encuesta
+7. Realizar mapeo
+8. Verificar producción (applicación Web)
+
+**Gestión de CAMBIOS**: (aplicación Web)
+1. Seleccionar proyecto
+2. Seleccionar *dimension territorial*
+3. Re-dibujar *dimension territorial* (a nivel de proyecto)
+4. Re-editar tareas afectadas
+5. Re-dibujar *dimension territorial* (a nivel de tarea)
+6. Aceptar
