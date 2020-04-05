@@ -3,7 +3,7 @@
 Esta *app* ha sido diseñada para vincular ciudadanos a las operaciones de *definir*, *medir* y *evaluar* del Equipo OPC - Observatorio de Paz y Convivencia. 
 
 Introducción:
-El directorio **bin** contiene versiones del instalador pre-configuradas para operar con el *entorno de desarrollo* o con el *entorno de pruebas*. El archivo **opx-desarrollo.apk** es el instalador de la aplicación móvil para Android. Para instalar esta aplicación, será necesario autorizar el instalador dado que es una fuente que no proviene de la tienda Google Play.
+El directorio **bin** de este repositorio contiene versiones del *instalador* creadas para operar con el *entorno de desarrollo* o con el *entorno de pruebas*. El archivo **opx-desarrollo.apk** es el instalador de la aplicación móvil para Android. Para instalar esta aplicación, será necesario autorizar el instalador dado que es una fuente que no proviene de la tienda *Google Play*.
 
 **Entorno de desarollo**: se refiefe al producto OPx creado para operar con la infraestructura *DigitalOcean*. Este es el escenario actual sobre el cual se ejecuta el plan de pruebas. 
 
