@@ -55,6 +55,4 @@ El alcance actual del escenario de desarrollo requiere que antes de usar la app 
 
 **Hosts Go**:
 
-![Imagen Hosts editor](https://github.com/mauriciosedano/opx-pruebas/blob/master/app-movil/Screenshot_20200405-161832.png)
-
-![Imagen Hosts Start](https://github.com/mauriciosedano/opx-pruebas/blob/master/app-movil/Screenshot_20200405-161844.png)
+![Imagen Hosts editor](https://github.com/mauriciosedano/opx-pruebas/blob/master/app-movil/Screenshot_20200405-161832.png)![Imagen Hosts Start](https://github.com/mauriciosedano/opx-pruebas/blob/master/app-movil/Screenshot_20200405-161844.png)
