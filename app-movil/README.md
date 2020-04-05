@@ -1,9 +1,16 @@
-Aplicación móvil de la Plataforma OPx
+**Pruebas de la aplicación móvil de la Plataforma OPx**
+
+Esta *app* ha sido diseñada para vincular ciudadanos a las operaciones de *definir*, *medir* y *evaluar* del Equipo OPC - Observatorio de Paz y Convivencia. 
 
 Introducción:
-- **bin**: Este directorio contiene versiones de la aplicación móvil pre-configuradas para operar con el entorno de desarrollo o con el entorno de pruebas. *Entorno de desarollo*: se refiefe al producto OPx entregado por Neuromedia que opera sobre la infraestructura de *DigitalOcean*. Este es el escenario actual sobre el cual se ejecuta el plan de pruebas. *Entorno de pruebas*: se refiere a una versión del producto entregado que opera sobre la infraestructura de *DATIC*. Sobre este escenario, aun no ha sido posible ejecutar el plan de pruebas. *Entorno de produccion*: se refiere el escenario esperado al cual se transita para configurar y ejecutar proyectos de medición y evalación. Para transitar a este entorno, Neuromedia debe cumplir con requerimeitnos de documentación exigidos por MinTIC/DATIC.  
+El directorio **bin** contiene versiones del instalador pre-configuradas para operar con el *entorno de desarrollo* o con el *entorno de pruebas*. El archivo **opx-desarrollo.apk** es el instalador de la aplicación móvil para Android. Para instalar esta aplicación, será necesario autorizar el instalador dado que es una fuente que no proviene de la tienda Google Play.
 
-- **opx-desarrollo.apk** Es el *nombre* del instalador de la aplicación móvil para Android de la Plataforma OPx. Esta *app* esta diseñada para vincular ciudadanos a las operaciones de *definir*, *medir* y *evaluar* del Equipo OPC - Observatorio de Paz y Convivencia. Para instalar esta aplicación, será necesario autorizar el instalador dado que es una fuente que no proviene de la tienda Google Play.
+**Entorno de desarollo**: se refiefe al producto OPx creado para operar con la infraestructura *DigitalOcean*. Este es el escenario actual sobre el cual se ejecuta el plan de pruebas. 
+
+**Entorno de pruebas**: se refiere a una versión adicional del producto OPx creado para operar con la infraestructura *DATIC*. Sobre este escenario, aun no ha sido posible ejecutar el plan de pruebas. 
+
+**Entorno de produccion**: se refiere el escenario final al cual se transita luego de *tres iteraciones* con el producto. Una vez alcanzado este escenario, será posible configurar y ejecutar proyectos de medición y evaluación. Para transitar a este entorno, Neuromedia debe cumplir con requerimeitnos de documentación exigidos por MinTIC/DATIC.  
+
 
 **Instrucciones**
 Para colaborar con el plan de pruebas es necesario:
