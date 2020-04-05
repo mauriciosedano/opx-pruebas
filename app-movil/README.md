@@ -54,3 +54,6 @@ El alcance actual del escenario de desarrollo requiere que antes de usar la app 
 **Fuente de origen desconcido**:
 ![Imagen de origen desconocido](https://github.com/mauriciosedano/opx-pruebas/blob/master/app-movil/apk-origenes-desconocidos.jpg)
 
+**Hosts Go**:
+
+![Imagen Host Go Inicio](https://github.com/mauriciosedano/opx-pruebas/blob/master/app-movil/Screenshot_20200405-161844.png)
